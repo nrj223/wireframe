@@ -8,7 +8,7 @@ color: white}
 
 .container1 {
 display: grid; 
-grid-template-rows: 12fr 12fr 12fr;
+grid-template-rows:  12fr 12fr 12fr;
 grid-template-columns: auto;
 margin: 0 auto;
 height: 100%;
@@ -62,7 +62,7 @@ font-size: 20px;}
 
 .container2 {
 display: grid; 
-grid-template-rows: 12fr 12fr 6fr;
+grid-template-rows: 13fr 13fr 4fr;
 grid-template-columns:auto;
 height: 100%;
 text-align: center;
